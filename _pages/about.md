@@ -16,5 +16,5 @@ Research Interests
 
 What's New
 ======
-- [October 2021]I joined CISPA to start my Ph.D!
+- [October 2021] I joined CISPA to start my Ph.D!
 
