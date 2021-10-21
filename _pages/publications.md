@@ -12,6 +12,6 @@ ___
 
 <b>Hai Huang</b>, Jiaming Mu, Neil Zhenqiang Gong, Qi Li, Bin Liu, Mingwei Xu.
 
-In ISOC Network and Distributed System Security Symposium (NDSS), 2021.
+In *ISOC Network and Distributed System Security Symposium (NDSS)*, 2021.
 
 [[PDF](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-4_24525_paper.pdf)]
