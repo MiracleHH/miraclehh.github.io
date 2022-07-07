@@ -12,9 +12,11 @@ I am currently a first year Ph.D. student at [CISPA Helmholtz Center for Informa
 Research Interests
 ======
 - Security and Privacy of Machine Learning
+- Neural Architecture Search
 - Recommender Systems
 
 What's New
 ======
+- [July 2022] I successfully passed my Qualifying Exam!
 - [November 2021] I joined CISPA to start my Ph.D.!
 
