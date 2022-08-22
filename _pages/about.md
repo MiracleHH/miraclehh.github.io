@@ -17,6 +17,6 @@ Research Interests
 
 What's New
 ======
-- [July 2022] I successfully passed my Qualifying Exam!
+- [July 2022] I passed my Qualifying Exam!
 - [November 2021] I joined CISPA to start my Ph.D.!
 

@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, CISPA Helmholtz Center for Information Security, 2021 - present
+* Ph.D in Computer Science, CISPA Helmholtz Center for Information Security, 2021 - Present
 * M.Eng. in Computer Technology, Tsinghua University, 2018 - 2021
 * B.Eng. in Opto-Electronics Information Science and Engineering, Beijing University of Posts and Telecommunications, 2014 - 2018
 
