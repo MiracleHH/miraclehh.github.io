@@ -10,7 +10,7 @@ ___
 
 ### <span style="color:#52ADC8">On the Privacy Risks of Cell-Based NAS Architectures</span>
 <b>Hai Huang</b>, Zhikun Zhang, Yun Shen, Michael Backes, Qi Li, Yang Zhang.\
-In *ACM Conference on Computer and Communications Security (CCS)*, 2022.\
+In *ACM Conference on Computer and Communications Security (CCS)*, 2022.
 
 ## 2021
 ___
