@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, CISPA Helmholtz Center for Information Security, 2021 - Present
-* M.Eng. in Computer Technology, Tsinghua University, 2018 - 2021
-* B.Eng. in Opto-Electronics Information Science and Engineering, Beijing University of Posts and Telecommunications, 2014 - 2018
+* Ph.D. in Computer Science, CISPA Helmholtz Center for Information Security, Nov. 2021 - Present
+* M.Eng. in Computer Technology, Tsinghua University, Sep. 2018 - Jun. 2021
+* B.Eng. in Opto-Electronics Information Science and Engineering, Beijing University of Posts and Telecommunications, Sep. 2014 - Jul. 2018
 
 Publications
 ======
@@ -38,11 +38,11 @@ In *ISOC Network and Distributed System Security Symposium (NDSS)*, 2021.\
 Service
 ======
 ## External Reviewer
-* S&P, 2023
-* CCS, 2022
-* USENIX Security, 2022
-* NDSS, 2023
-* KDD, 2022
-* NeurIPS, 2022
-* AsiaCCS, 2022
-* SAC, 2022
+* S&P: 2023
+* CCS: 2022
+* USENIX Security: 2022
+* NDSS: 2023
+* KDD: 2022
+* NeurIPS: 2022
+* AsiaCCS: 2022
+* SAC: 2022
