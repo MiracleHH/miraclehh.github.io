@@ -24,7 +24,7 @@ ___
 ### <span style="color:#52ADC8">On the Privacy Risks of Cell-Based NAS Architectures</span>
 <b>Hai Huang</b>, Zhikun Zhang, Yun Shen, Michael Backes, Qi Li, Yang Zhang.\
 In *ACM Conference on Computer and Communications Security (CCS)*, 2022.\
-[[arXiv](https://arxiv.org/abs/2209.01688)] [[Code](https://github.com/MiracleHH/nas_privacy)]
+[[PDF](https://dl.acm.org/doi/10.1145/3548606.3560619)] [[arXiv](https://arxiv.org/abs/2209.01688)] [[Code](https://github.com/MiracleHH/nas_privacy)]
 
 ## 2021
 ___
