@@ -17,6 +17,18 @@ Education
 
 Publications
 ======
+## 2023
+___
+
+### <span style="color:#52ADC8">Composite Backdoor Attacks Against Large Language Models</span>
+<b>Hai Huang</b>, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang.\
+Preprint.\
+[[arXiv](https://arxiv.org/abs/2310.07676)]
+
+### <span style="color:#52ADC8">Prompt Backdoors in Visual Prompt Learning</span>
+<b>Hai Huang</b>, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang.\
+Preprint.\
+[[arXiv](https://arxiv.org/abs/2310.07632)]
 
 ## 2022
 ___
@@ -33,7 +45,6 @@ ___
 <b>Hai Huang</b>, Jiaming Mu, Neil Zhenqiang Gong, Qi Li, Bin Liu, Mingwei Xu.\
 In *ISOC Network and Distributed System Security Symposium (NDSS)*, 2021.\
 [[PDF](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-4_24525_paper.pdf)] [[arXiv](https://arxiv.org/abs/2101.02644)] [[Code](https://github.com/MiracleHH/RecommPoison)]
-
 
 Service
 ======

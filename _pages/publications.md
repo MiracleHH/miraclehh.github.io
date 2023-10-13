@@ -5,6 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2023
+___
+
+### <span style="color:#52ADC8">Composite Backdoor Attacks Against Large Language Models</span>
+<b>Hai Huang</b>, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang.\
+Preprint.\
+[[arXiv](https://arxiv.org/abs/2310.07676)]
+
+### <span style="color:#52ADC8">Prompt Backdoors in Visual Prompt Learning</span>
+<b>Hai Huang</b>, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang.\
+Preprint.\
+[[arXiv](https://arxiv.org/abs/2310.07632)]
+
 ## 2022
 ___
 
