@@ -15,8 +15,9 @@ Research Interests
 
 What's New
 ======
+- [March 2024] Our paper titled "Composite Backdoor Attacks Against Large Language Models" got accepted in [Findings of NAACL 2024](https://2024.naacl.org)!
 - [September 2022] I will serve on the Artifact Evaluation Committee of [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
-- [August 2022] Our paper titled "On the Privacy Risks of Cell-Based NAS Architectures" got accepted in [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
+- [August 2022] Our paper titled "On the Privacy Risks of Cell-Based NAS Architectures" got accepted in [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022)!
 - [July 2022] I passed my Qualifying Exam!
 - [November 2021] I joined CISPA to start my Ph.D.!
 

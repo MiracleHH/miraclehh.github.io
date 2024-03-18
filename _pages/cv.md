@@ -17,13 +17,16 @@ Education
 
 Publications
 ======
-## 2023
+## 2024
 ___
 
 ### <span style="color:#52ADC8">Composite Backdoor Attacks Against Large Language Models</span>
 <b>Hai Huang</b>, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang.\
-Preprint.\
+In Findings of *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*.\
 [[arXiv](https://arxiv.org/abs/2310.07676)]
+
+## 2023
+___
 
 ### <span style="color:#52ADC8">Prompt Backdoors in Visual Prompt Learning</span>
 <b>Hai Huang</b>, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang.\
