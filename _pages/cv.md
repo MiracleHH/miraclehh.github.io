@@ -22,8 +22,8 @@ ___
 
 ### <span style="color:#52ADC8">Composite Backdoor Attacks Against Large Language Models</span>
 <b>Hai Huang</b>, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang.\
-In Findings of *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*.\
-[[arXiv](https://arxiv.org/abs/2310.07676)]
+In Findings of *the Association for Computational Linguistics: NAACL 2024*.\
+[[arXiv](https://arxiv.org/abs/2310.07676)] [[Code](https://github.com/MiracleHH/CBA)]
 
 ## 2023
 ___
