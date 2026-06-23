@@ -17,6 +17,14 @@ Education
 
 Publications
 ======
+## 2026
+___
+
+### <span style="color:#52ADC8">Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs</span>
+Yukun Jiang, <b>Hai Huang</b>, Mingjie Li, Yage Zhang, Michael Backes, Yang Zhang.\
+In *International Conference on Machine Learning (ICML)*, 2026.\
+[[arXiv](https://arxiv.org/abs/2602.08621)] [[Code](https://github.com/TrustAIRLab/UnsafeMoE)]
+
 ## 2024
 ___
 
